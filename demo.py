@@ -13,7 +13,7 @@ def analyse(x, y):
         predicted_ys.append(predicted_y)
 
     plt.plot(x, predicted_ys)
-    plt.title(f"Correlação {correlacao:.2f}, Regressão B1: {bone:.2f}, B0: {bzero:.2f}")
+    plt.title(f"Correlação {correlacao:.4f}, Regressão B1: {bone:.4f}, B0: {bzero:.4f}")
     plt.show()
 
 
