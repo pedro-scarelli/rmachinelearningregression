@@ -1,0 +1,5 @@
+    3) Qual dos datasets não é apropriado para regressão linear? Justifique sua resposta.
+    R: O segundo, porque podemos ver pelo gráfico que ele forma uma curva, indicando que seria mais apropriado utilizar um modelo não linear 
+
+    4) Ao analisar o gráfico de dispersão e o resultado da regressão linear para o dataset 4, observa-se um problema. O que deveria ser feito antes de ajustar o modelo de regressão? Justifique sua resposta.
+    O problema é que temos um outlier muito distante da linha de regressão, oque está puxando a linha para longe dos outros pontos que seguem a regressão, antes de ajustar o modelo devemos garantir que este outlier é um dado válido e não houve erros
